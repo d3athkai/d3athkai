@@ -1,4 +1,5 @@
 ## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
+![](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)  
 I am a DevOps Engineer <a href="https://www.linkedin.com/in/siehkae/"><img alt="LinkedIN" width="25px" src="https://raw.githubusercontent.com/d3athkai/d3athkai/main/linkedin.svg" /></a> in Singapore who is passionate about automations, building tech and learning new technologies.  
 I am currently dabbling in the following tech stack below:  
 ### 🛠 &nbsp;Tech Stack  

@@ -10,7 +10,9 @@ I am currently dabbling in the following tech stack below:
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonAWS) ![VMware](https://img.shields.io/badge/-VMwareVsphere-05122A?style=flat&logo=VMware) ![Proxmox](https://img.shields.io/badge/-Proxmox-05122A?style=flat&logo=Proxmox) ![Nutanix](https://img.shields.io/badge/-Nutanix-05122A?style=flat&logo=Nutanix)  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)  
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
-    
+  
+View my [Gist](https://gist.github.com/d3athkai).  
+  
 ## 📈 My GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3athkai&langs_count=10&layout=compact&hide=vbscript&theme=highcontrast)  
 ![D3athkai's github stats](https://github-readme-stats.vercel.app/api?username=d3athkai&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=highcontrast)  

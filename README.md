@@ -1,6 +1,6 @@
 ## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
-![](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)  
-I am a DevOps Engineer <a href="https://www.linkedin.com/in/siehkae/"><img alt="LinkedIN" width="25px" src="https://raw.githubusercontent.com/d3athkai/d3athkai/main/linkedin.svg" /></a> in Singapore who is passionate about automations, building tech and learning new technologies.  
+![](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge) ![[LinkedIn](https://www.linkedin.com/in/siehkae/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
+I am a Platform Engineer in Singapore who is passionate about automations, learning and adopting new technologies.  
 I am currently dabbling in the following tech stack below:  
 ### 🛠 &nbsp;Tech Stack  
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer) ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform) ![Vault](https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault)  

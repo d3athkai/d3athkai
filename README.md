@@ -1,6 +1,6 @@
 ## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
 [![Welcome](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)](https://github.com/d3athkai)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siehkae/)  
-I am a DevOps/Platform Engineer in Singapore who is passionate about automations, learning and adopting new technologies.  
+I am a DevOps/Platform Engineer in :singapore: who is passionate about automations, learning and adopting new technologies.  
 
 I am currently dabbling in the following tech stack below:  
 ### 🛠 Tech Stack  

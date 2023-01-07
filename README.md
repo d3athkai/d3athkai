@@ -1,8 +1,9 @@
 ## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
-![](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge) ![[LinkedIn](https://www.linkedin.com/in/siehkae/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
-I am a Platform Engineer in Singapore who is passionate about automations, learning and adopting new technologies.  
+[![Welcome](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)](https://github.com/d3athkai)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siehkae/)  
+I am a DevOps/Platform Engineer in Singapore who is passionate about automations, learning and adopting new technologies.  
+
 I am currently dabbling in the following tech stack below:  
-### 🛠 &nbsp;Tech Stack  
+### 🛠 Tech Stack  
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer) ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform) ![Vault](https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault)  
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&logo=podman) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
 ![Ansible Tower](https://img.shields.io/badge/-Ansible--Tower-05122A?style=flat&logo=Ansible) ![GoCD](https://img.shields.io/badge/-GoCD-05122A?style=flat&logo=GoCD) ![JFrog](https://img.shields.io/badge/-JFrog-05122A?style=flat&logo=JFrog)  

@@ -14,9 +14,3 @@ I am currently dabbling in the following tech stack below:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
   
 View my [Gist](https://gist.github.com/d3athkai).  
-  
-## 📈 My GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3athkai&langs_count=10&layout=compact&hide=vbscript&theme=highcontrast)  
-![D3athkai's github stats](https://github-readme-stats.vercel.app/api?username=d3athkai&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=highcontrast)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=d3athkai&theme=chartreuse-dark&area=true)  
-  

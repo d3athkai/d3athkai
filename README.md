@@ -1,9 +1,11 @@
 ## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
 [![Welcome](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)](https://github.com/d3athkai)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siehkae/)  
-I am a DevOps/Platform Engineer in :singapore: who is passionate about automations, learning and adopting new technologies.  
-
-I am currently dabbling in the following tech stack below:  
-### 🛠 Tech Stack  
+  
+I am a DevOps/Platform Engineer from :singapore: who is passionate about learning, performing automations and adopting new technologies.  
+  
+---
+  
+### 🛠 Tech Stack and Languages :  
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer) ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform) ![Vault](https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault)  
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&logo=podman) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
 ![Ansible Tower](https://img.shields.io/badge/-Ansible--Tower-05122A?style=flat&logo=Ansible) ![GoCD](https://img.shields.io/badge/-GoCD-05122A?style=flat&logo=GoCD) ![JFrog](https://img.shields.io/badge/-JFrog-05122A?style=flat&logo=JFrog)  
@@ -14,4 +16,14 @@ I am currently dabbling in the following tech stack below:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)  
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
   
-View my [Gist](https://gist.github.com/d3athkai).  
+---
+  
+### 🔥 My Stats :  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3athkai&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3athkai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+---
+
+### ✍️ Gists : 
+https://gist.github.com/d3athkai

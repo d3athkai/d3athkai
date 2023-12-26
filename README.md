@@ -1,6 +1,5 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋🏻%20Hello%20There&fontSize=80)](#)  
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋🏻%20Hello%20There&fontSize=75)](#)  
   
-## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
 [![Welcome](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)](https://github.com/d3athkai)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siehkae/)  
   
 I am a DevOps/Platform Engineer from :singapore: who is passionate about learning, performing automations and adopting new technologies.  
@@ -30,4 +29,4 @@ I am a DevOps/Platform Engineer from :singapore: who is passionate about learnin
 ### ✍️ Gists : 
 https://gist.github.com/d3athkai
 
-[![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)](#)  
+[![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)](#)  

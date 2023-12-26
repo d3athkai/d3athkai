@@ -1,3 +1,5 @@
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋🏻%20Hello%20There&fontSize=80)](#)  
+  
 ## <img src="https://github.com/d3athkai/d3athkai/blob/main/wave.gif?raw=true" width="25px"> Hello there  
 [![Welcome](https://komarev.com/ghpvc/?username=d3athkai&color=blue&style=for-the-badge)](https://github.com/d3athkai)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siehkae/)  
   
@@ -19,11 +21,13 @@ I am a DevOps/Platform Engineer from :singapore: who is passionate about learnin
 ---
   
 ### 🔥 My Stats :  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3athkai&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3athkai&theme=dark&background=000000)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3athkai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3athkai&layout=compact&theme=vision-friendly-dark)](#)
   
 ---
 
 ### ✍️ Gists : 
 https://gist.github.com/d3athkai
+
+[![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)](#)  

@@ -25,9 +25,8 @@ I am a DevOps/Platform Engineer from :singapore: who is passionate about learnin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3athkai&layout=compact&theme=vision-friendly-dark)](#)
   
 ---
-
+  
 ### ✍️ Notes and Tips :  
 [![Gists](https://img.shields.io/badge/github%20gists-%23F7DF1E.svg?style=for-the-badge&logo=gist&logoColor=white)](https://gist.github.com/d3athkai)  
-
-
+  
 [![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)](#)  
